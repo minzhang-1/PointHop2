@@ -33,7 +33,7 @@ To train a single model to classify point clouds sampled from 3D shapes:
 
     python3 train.py
 
-After the above training, we can evaluate the single model. You can also use the provided single model to do evaluation directly.
+After the above training, we can evaluate the single model. You can also use the provided model to do evaluation directly.
 
     python3 evaluate.py
 
