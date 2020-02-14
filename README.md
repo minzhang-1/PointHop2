@@ -1,5 +1,5 @@
 # PointHop++: *A Lightweight Learning Model on Point Sets for 3D Classification*
-Created by Min Zhang, Yifan Wang, Pranav Kadam, Shan Liu, C.-C. Jay Kuo from University of Southern California.
+Created by [Min Zhang](https://github.com/minzhang-1), [Yifan Wang](https://github.com/yifan-fanyi), Pranav Kadam, Shan Liu, C.-C. Jay Kuo from University of Southern California.
 
 ![introduction](https://github.com/minzhang-1/PointHop2/blob/master/doc/baseline.png)
 
