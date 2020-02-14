@@ -37,7 +37,7 @@ After the above training, we can evaluate the single model. You can also use the
 
     python3 evaluate.py
 
-Log files and network parameters will be saved to `log` folder. If you would like to achieve better performance, you can change the argument `feature_selection` from `None` to `0.95` or `ensemble` from `False` to `True` or both in `train.py` and `evaluate.py` respectively. Or use the provided model `params_single_w_fe` and `params_ensemble_w_fe`. Remember to change the loaded in models.
+Log files and network parameters will be saved to `log` folder. If you would like to achieve better performance, you can change the argument `feature_selection` from `None` to `0.95` or `ensemble` from `False` to `True` or both in `train.py` and `evaluate.py` respectively. Or use the provided model `params_single_w_fe` and `params_ensemble_w_fe`. 
 
 Point clouds of <a href="http://modelnet.cs.princeton.edu/" target="_blank">ModelNet40</a> models in HDF5 files will be automatically downloaded (416MB) to the data folder. Each point cloud contains 2048 points uniformly sampled from a shape surface. Each cloud is zero-mean and normalized into an unit sphere. There are also text files in `data/modelnet40_ply_hdf5_2048` specifying the ids of shapes in h5 files.
 
