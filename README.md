@@ -1,7 +1,7 @@
 # PointHop++: *A Lightweight Learning Model on Point Sets for 3D Classification*
 Created by Min Zhang, Yifan Wang, Pranav Kadam, Shan Liu, C.-C. Jay Kuo from University of Southern California.
 
-![introduction](https://github.com/minzhang-1/PointHop++/blob/master/doc/baseline.pdf)
+![introduction](https://github.com/minzhang-1/PointHop2/blob/master/doc/baseline.pdf)
 
 ### Introduction
 This work is an official implementation of our [arXiv tech report](https://arxiv.org/abs/2002.03281). We improve the [PointHop method](https://arxiv.org/abs/1907.12766) furthermore in two aspects: 1) reducing its model complexity in terms of the model parameter number and 2) ordering discriminant features automatically based on the cross-entropy criterion. The resulting method is called PointHop++. The first improvement is essential for wearable and mobile computing while the second improvement bridges statistics-based and optimization-based machine learning methodologies. With experiments conducted on the ModelNet40 benchmark dataset, we show that the PointHop++ method performs on par with deep neural network (DNN) solutions and surpasses other unsupervised feature extraction methods.
