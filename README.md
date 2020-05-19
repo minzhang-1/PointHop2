@@ -8,6 +8,9 @@ This work is an official implementation of our [arXiv tech report](https://arxiv
 
 In this repository, we release code and data for training a PointHop++ classification network on point clouds sampled from 3D shapes.
 
+### Spark version
+This implementation has a high requirement for memory. If you only have 16/32GB memory, please use our [new distributed version](https://github.com/minzhang-1/PointHop-PointHop2_Spark) which is built upon Apache Spark. The new version implements the baseline within 40 minutes, using less than 14GB memory.
+
 ### Citation
 If you find our work useful in your research, please consider citing:
 
