@@ -15,10 +15,10 @@ This implementation has a high requirement for memory. If you only have 16/32GB 
 If you find our work useful in your research, please consider citing:
 
 	@article{zhang2020pointhop++,
-	  title={PointHop++: A Lightweight Learning Model on Point Sets for 3D Classification},
-	  author={Zhang, Min and Wang, Yifan and Kadam, Pranav and Liu, Shan and Kuo, C-C Jay},
-	  journal={arXiv preprint arXiv:2002.03281},
-	  year={2020}
+  	  title={PointHop++: A Lightweight Learning Model on Point Sets for 3D Classification},
+  	  author={Zhang, Min and Wang, Yifan and Kadam, Pranav and Liu, Shan and Kuo, C-C Jay},
+  	  journal={arXiv preprint arXiv:2002.03281},
+  	  year={2020}
 	}
 
 ### Installation
